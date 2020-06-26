@@ -1,5 +1,5 @@
 ## realtime-voting
-Real-time voting done at the IGTI bootcamp.
+Real-time votes for the best metal band. Made in the IGTI bootcamp using react and NodeJs.
 
 ## You need to run for the back-end:
 - Npm init
